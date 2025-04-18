@@ -1,0 +1,24 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore React build files
+frontend/build/
+
+# Ignore node_modules
+frontend/node_modules/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
